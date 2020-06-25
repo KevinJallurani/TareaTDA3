@@ -1,8 +1,16 @@
-body{
-    background:url("img/fondo.jpg");
+input{
+    border-color: firebrick;
+    margin-left: 40px;
+    width: 170px;  
 }
 
-input{
-    border-color: firebrick;;
-    
+a{
+    margin-left: 10px;
+    font-size: 25px
+}
+h1{
+    font-size: 40px;
+}
+img{
+    margin-left: -150px;;
 }
